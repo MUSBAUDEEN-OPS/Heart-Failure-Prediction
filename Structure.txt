@@ -1,0 +1,13 @@
+heart-failure-prediction/
+├── app/
+│   └── app.py                  ← Your Streamlit app (the main thing people will use)
+├── data/
+│   └── heart_failure_clinical_records_dataset.csv   ← The small dataset
+├── notebooks/
+│   ├── 01_eda_and_preprocessing.ipynb     ← Your exploration & analysis
+│   └── 02_model_training.ipynb            ← Where you train & test models
+├── models/                 (optional but recommended)
+│   └── best_model.pkl      ← Save your trained model here later
+├── requirements.txt        ← List of packages needed to run the project
+├── .gitignore              ← Tells Git what to ignore
+└── README.md               ← The most important file — explains everything
