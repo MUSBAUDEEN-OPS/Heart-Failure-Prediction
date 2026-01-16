@@ -18,8 +18,9 @@ A **Random Forest** model is trained on the well-known **Heart Failure Clinical 
 Users can input patient clinical values and immediately receive an estimated risk probability along with clear risk interpretation.
 </p>
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-name.streamlit.app](https://monopetalous-patria-unpretentiously.ngrok-free.dev/))
-![GitHub stars](https://img.shields.io/github/stars/MUSBAUDEEN-OPS/heart-failure-prediction?style=social)
+#### **Checkout the dashboard below by clicking on the streamlit link below**
+
+# [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://monopetalous-patria-unpretentiously.ngrok-free.dev/)![GitHub stars](https://img.shields.io/github/stars/MUSBAUDEEN-OPS/heart-failure-prediction?style=social)
 
 ## ✨ Key Features
 
