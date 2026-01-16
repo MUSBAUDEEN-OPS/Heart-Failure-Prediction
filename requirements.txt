@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+Matplotlib
+seaborn
+scikit-learn
+joblib          # optional — good for saving model
