@@ -20,7 +20,7 @@ Users can input patient clinical values and immediately receive an estimated ris
 
 #### **Checkout the dashboard below by clicking on the streamlit link below**
 
-# [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://monopetalous-patria-unpretentiously.ngrok-free.dev/)![GitHub stars](https://img.shields.io/github/stars/MUSBAUDEEN-OPS/heart-failure-prediction?style=social)
+# [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-failure-prediction-nuw5gbih2csnvaitc2hews.streamlit.app/)![GitHub stars](https://img.shields.io/github/stars/MUSBAUDEEN-OPS/heart-failure-prediction?style=social)
 
 ## ✨ Key Features
 
