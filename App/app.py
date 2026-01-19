@@ -18,7 +18,7 @@ import os
 def load_model():
     # IMPORTANT: Update this path to where your CSV file is located
     # In Colab, after downloading with kagglehub, it's usually in this folder:
-    csv_path = "/content/heart_failure_clinical_records_dataset.csv"  
+    csv_path = "Data/heart_failure_clinical_records_dataset.csv"  
     
     if not os.path.exists(csv_path):
         st.error(f"Dataset not found at: {csv_path}\nPlease make sure the file is in the correct location.")
